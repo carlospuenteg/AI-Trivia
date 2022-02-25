@@ -1,0 +1,44 @@
+I can create Trivia questions about general knowledge (Q) and answer them (A).
+Q: What does “www” stand for in a website browser?
+A: World Wide Web
+Q: How long is an Olympic swimming pool (in meters)?
+A: 50 meters
+Q: What countries made up the original Axis powers in World War II?
+A: Germany, Italy, and Japan
+Q: Which country do cities of Perth, Adelade & Brisbane belong to?
+A: Australia
+Q: What geometric shape is generally used for stop signs?
+A: Octagon
+Q: What is "cynophobia"?
+A: Fear of dogs
+Q: What punctuation mark ends an imperative sentence?
+A: A period or exclamation point
+Q: Who named the Pacific Ocean?
+A: Ferdinand Magellan
+Q: How many languages are written from right to left?
+A: 12
+Q: How many countries still have Shilling as currency? Bonus point: Which countries?
+A: Four, Kenya, Uganda, Tanzania, and Somalia
+Q: What is the name of the man who launched eBay back in 1995?
+A: Pierre Omidyar
+Q: What is the name of the biggest technology company in South Korea?
+A: Samsung
+Q: Which animal can be seen on the Porsche logo?
+A: Horse
+Q: Which monarch officially made Valentine's Day a holiday in 1537?
+A: Henry VIII
+Q: Who was the first woman to win a Nobel Prize (in 1903)?
+A: Marie Curie
+Q: The first dictionary was written by?
+A: Robert Cawdrey
+Q: Worship of Krishna is observed by which Religious Faith?
+A: Hinduism
+Q: What is the name of the largest ocean on earth?
+A: Pacific Ocean
+Q: Demolition of the Berlin wall separating East and West Germany began in what year?
+A: 1989
+Q: What is the romanized Arabic word for "moon"?
+A: Qamar
+Q: Who was the first woman pilot to fly solo across the Atlantic?
+A: Amelia Earhart
+Q:

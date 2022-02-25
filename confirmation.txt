@@ -1,0 +1,29 @@
+I can tell if a Trivia Answer (A) of a Trivia Question (Q) is correct.
+Q: Who is the current president of Egypt?
+A: Fattah
+Is this correct?
+Yes
+Q: Which Shakespeare play is about two young lovers who are forced to part?
+A: Romeo and Juliet
+Is this correct?
+Yes
+Q: What is the capital of the Central African Republic?
+A: Bangi
+Is this correct?
+No
+Q: What is the name of the largest member of the cat family?
+A: Lion
+Is this correct?
+No
+Q: What is the name of the largest member of the cat family?
+A: Tiger
+Is this correct?
+Yes
+Q: The first successful powered flight was made by which men?
+A: Wright Brothers
+Is this correct?
+Yes
+Q: The first successful powered flight was made by which men?
+A: The Wright Brothers
+Is this correct?
+Yes
